@@ -3,5 +3,5 @@ langchain-community
 crewai[tools]
 langchain-experimental
 langchain-google-genai
-crewai==0.32.0
+crewai
 streamlit 
