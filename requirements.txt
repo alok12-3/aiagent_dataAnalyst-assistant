@@ -1,7 +1,7 @@
-langchain-core==0.2.9
-langchain-community==0.2.5
-crewai[tools]==0.32.0
-langchain-experimental==0.0.61
-langchain-google-genai==1.0.3
+langchain-core
+langchain-community
+crewai[tools]
+langchain-experimental
+langchain-google-genai
 crewai==0.32.0
 streamlit 
